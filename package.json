@@ -1,6 +1,6 @@
 {
   "name": "utensil-cli",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "CLI tool for initializing front-end program",
   "bin": {
     "utensil-cli": "./lib/cli.js"
