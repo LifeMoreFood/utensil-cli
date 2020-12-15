@@ -1,0 +1,32 @@
+{
+  "name": "utensil-cli",
+  "version": "0.0.1",
+  "description": "CLI tool for initializing front-end program",
+  "bin": {
+    "utensil-cli": "./lib/cli.js"
+  },
+  "files": [
+    "lib"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "keywords": [
+    "cli-app",
+    "cli",
+    "utensil-cli",
+    "front-end",
+    "development"
+  ],
+  "author": {
+    "name": "XiongJingzhi",
+    "email": "davidxiong1994@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "mkdirp": "^1.0.4",
+    "path": "^0.12.7",
+    "yeoman-environment": "^2.10.3"
+  }
+}

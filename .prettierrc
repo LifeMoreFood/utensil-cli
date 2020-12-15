@@ -1,0 +1,9 @@
+{
+  "tabWidth": 2,
+  "printWidth": 100,
+  "eslintIntegration": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "semi": false,
+  "jsxSingleQuote": true
+}
